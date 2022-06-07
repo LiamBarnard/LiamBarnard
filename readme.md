@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
 
 ## I'm a self-taught Software Engineer from Buckinghamshire, England 
--:mortar_board: Currently learning JavaScript
--:pound: Cloud Support Engineer by day
--:computer: Software Engineer by night
+-:mortar_board: Currently learning JavaScript<br>
+-:pound: Cloud Support Engineer by day<br>
+-:computer: Software Engineer by night<br>
 -:school: Completing a front-end course on Codecademy
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
