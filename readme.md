@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Liam and welcome to my GitHub Profile! :wave:</h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
+<img src="img/line-break.png" alt="horizontal line" width="100%"/>
 
 ## I'm a self-taught Software Engineer from Buckinghamshire, England 
 -:mortar_board: Currently learning JavaScript<br>
@@ -9,7 +9,7 @@
 -:computer: Software Engineer by night<br>
 -:school: Completing a front-end course on Codecademy
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
+<img src="img/line-break.png" alt="horizontal line" width="100%"/>
 
 <h2>My Skills</h2>
 
@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode icon" width="35" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
+<img src="img/line-break.png" alt="horizontal line" width="100%"/>
 
 <h2>Connect With Me!</h2>
 
@@ -34,7 +34,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/lbarnard94#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/lbarnard94#gh-dark-mode-only)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="horizontal line" width="100%"/>
+<img src="img/line-break.png" alt="horizontal line" width="100%"/>
 
 <h2 align="center">My Stats</h2>
 
