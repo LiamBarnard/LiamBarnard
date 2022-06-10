@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Liam and welcome to my GitHub Profile! :wave:</h1>
+<img src="img/banner-github-repo.svg" alt="readme banner - Welcome to my Github!" width="100%"/>
 
 <p align="center">
 <img src="img/line-break.png" alt="horizontal line" width="100%"/>
